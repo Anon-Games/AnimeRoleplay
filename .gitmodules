@@ -1,0 +1,3 @@
+[submodule "Plugins/AnonLocomotion"]
+	path = Plugins/AnonLocomotion
+	url = https://github.com/Wisle25/AnonLocomotion.git
